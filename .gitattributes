@@ -1,0 +1,2 @@
+# Preserve literal whitespace in the existing generated service bundle during migration.
+/native/server.cjs whitespace=-blank-at-eol
